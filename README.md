@@ -1,11 +1,11 @@
-# M7885A · Communication
+# M7885A Intercom Front Panel · Communication
 
 Ward-Beck Systems M7885A, 1994|27. Wiki page: [M7885A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M7885A.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
 | [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 1 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
 | [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
 | [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 3 |
 | [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
