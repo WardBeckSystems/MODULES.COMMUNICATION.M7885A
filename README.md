@@ -1,6 +1,6 @@
 # M7885A Intercom Front Panel · Communication
 
-Ward-Beck Systems M7885A, 1994|27. Wiki page: [M7885A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M7885A.html)
+Ward-Beck Systems M7885A, 1994|27. Wiki page: [M7885A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M7885A-Intercom-Front-Panel/)
 
 | Folder | What is in it | Files |
 |---|---|---|
